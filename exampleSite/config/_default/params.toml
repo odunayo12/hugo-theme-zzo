@@ -43,14 +43,14 @@ talksGroupByDate = "2006"
 pubPaginate = 20
 
 # whoami
-myname = "zzossig"
+myname = "Odunayo Rotimi"
 email = "zzossig@gmail.com"
-whoami = "Web Developer"
+whoami = "Financial Systems Manager"
 bioImageUrl = ""
 useGravatar = false
-location = "Seoul, Korea"
-organization = "Hugo"
-link = "https://zzossig.io/ko"
+location = "DE"
+organization = "famiLLi™ Ltd®"
+link = "https://familli.co.uk/"
 
 # sidebar
 enableBio = true
@@ -72,7 +72,7 @@ tocLevels = ["h2", "h3", "h4"]
 enableSidebarPostsByOrder = false
 
 # footer
-showPoweredBy = true
+showPoweredBy = false
 showFeedLinks = true
 showSocialLinks = true
 enableLangChange = true
@@ -121,14 +121,15 @@ commento = false
 # You can get your appid and appkey from https://leancloud.cn
 # more info please open https://valine.js.org
 [valine]
-  enable = false
-  appId = '你的appId'
-  appKey = '你的appKey'
+  enable = true
+  appId = 'z4kYggENYn5iy2hvBdDse1qA-MdYXbMMI'
+  appKey = 'tWkmHfmL6S7Om7reSxzc1yYB'
   notify = false  # mail notifier , https://github.com/xCss/Valine/wiki
   verify = false # Verification code
-  avatar = 'mm' 
-  placeholder = '说点什么吧...'
+  avatar = 'retro'
+  placeholder = 'Enter your Comment'
   visitor = false
+  lang ='en'
 
 [changyan]
   changyanAppid = ""        # Changyan app id             # 畅言
@@ -144,18 +145,18 @@ commento = false
   dataAttrs = "" # "data-isso='https://isso.example.com' data-isso-require-author='true'"
 
 [socialOptions]
-  email = "mailto:your@email.com"
+  email = "mailto:odun.rotimi@gmail.com"
   phone = ""
-  facebook = "http://example.org/"
-  twitter = "http://example.org/"
-  github = "https://github.com/zzossig/hugo-theme-zzo"
+  facebook = "https://www.facebook.com/rotimiodunayo"
+  twitter = "https://twitter.com/odunayo_rotimi"
+  github = "https://github.com/odunayo12"
   stack-overflow = ""
   instagram = ""
   google-plus = ""
   youtube = ""
   medium = ""
   tumblr = ""
-  linkedin = ""
+  linkedin = "https://www.linkedin.com/in/odunayo-rotimi/"
   pinterest = ""
   stack-exchange = ""
   telegram = ""
@@ -177,7 +178,7 @@ commento = false
 
 [donationOptions]
   enable = false
-  alipay = "" 
+  alipay = ""
   wechat = ""
   paypal = ""
   patreon = ""
@@ -188,6 +189,8 @@ commento = false
   username = ""
 [[share]]
   name = "twitter"
+[[share]]
+  name = "linkedin"
 
 [[footerLinks]]
   name = ""
